@@ -18,3 +18,14 @@
 
   [plugins.inputs]
     record = true
+    
+    [[plugins]]
+package = "netlify-plugin-rss"
+  [plugins.inputs]
+  # required configs, customize as needed
+  dirToScan = "/post" # a subfolder to scan. "/" to scan all
+  authorName = "swyx"
+  site_url = "https://swyx.io"
+  title = "swyx RSS Feed"
+  rssDescription = "swyx.io RSS Feed"
+  categories = ['Technology', 'JAMstack', 'Web Development']
