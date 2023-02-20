@@ -1,4 +1,4 @@
----
+<meta name="google-site-verification" content="latoCWquzK-9v_Vtu34pnRMK26_EQCm-Tt0mmL9oQdc" />
 title: "Great coffee with a conscience"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
